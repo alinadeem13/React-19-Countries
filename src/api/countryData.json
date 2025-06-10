@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "population": 125800000,
+    "capital": "Tokyo",
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "population": 213000000,
+    "capital": "Brasília",
+    "interestingFact": "Brazil is home to about 60% of the Amazon rainforest."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "population": 38000000,
+    "capital": "Ottawa",
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Egypt",
+    "population": 104000000,
+    "capital": "Cairo",
+    "interestingFact": "The Great Pyramid of Giza is the only surviving ancient wonder."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "population": 25690000,
+    "capital": "Canberra",
+    "interestingFact": "Australia is home to more kangaroos than people."
+  }
+]
