@@ -195,7 +195,7 @@ nav ul {
 }
 
 .container .banner-image {
-  width: 100%;
+  width: 45%;
 }
 
 @media screen and (max-width: 990px) {
@@ -204,7 +204,7 @@ nav ul {
   }
 
   .container .banner-image {
-    width: 80%;
+    width: 34%;
     order: 0;
   }
 }
