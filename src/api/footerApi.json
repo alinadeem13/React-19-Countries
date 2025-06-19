@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "📧",
+    "title": "Email",
+    "details": "hello@example.com"
+  },
+  {
+    "icon": "📞",
+    "title": "Phone",
+    "details": "+1 234 567 890"
+  },
+  {
+    "icon": "📍",
+    "title": "Location",
+    "details": "123 Main Street, New York, NY"
+  },
+  {
+    "icon": "🕒",
+    "title": "Working Hours",
+    "details": "Mon - Fri, 9AM - 6PM"
+  }
+]
