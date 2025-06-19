@@ -6,6 +6,7 @@ import { Countries } from "./pages/Countries";
 import { Contact } from "./pages/Contact";
 import { AppLayout } from "./components/layout/AppLayout";
 import { ErrorPage } from "./pages/ErrorPage";
+import { CountryDetails } from "./components/layout/CountryDetails";
 
 const App = () => {
   const router = createBrowserRouter([
@@ -29,6 +30,10 @@ const App = () => {
         {
           path: "/contact",
           element: <Contact />,
+        },
+        {
+          path: "/country/:id",
+          element: <CountryDetails />,
         },
       ],
     },
